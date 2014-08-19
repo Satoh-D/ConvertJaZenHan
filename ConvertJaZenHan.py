@@ -12,8 +12,6 @@ def reverseDictionary(d):
 
 
 def convertToHanKana(region):
-    region = u'%s' % str(region)
-    region = region
     ret_region = u''
 
     for char_current in region:
@@ -26,8 +24,6 @@ def convertToHanKana(region):
 
 
 def convertToZenKana(region):
-    region = u'%s' % str(region)
-    region = region
     ret_region = u''
     char_prev = u''
 
