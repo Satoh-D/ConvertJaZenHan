@@ -1,0 +1,18 @@
+[
+	{
+		"caption": "ConvertJaZenHan: Convert to Zenkaku in File",
+		"command": "convert_to_zen_kana_all"
+	},
+	{
+		"caption": "ConvertJaZenHan: Convert to Zenkaku in Selection",
+		"command": "convert_to_zen_kana_selection"
+	},
+	{
+		"caption": "ConvertJaZenHan: Convert to Hankaku in File",
+		"command": "convert_to_han_kana_all"
+	},
+	{
+		"caption": "ConvertJaZenHan: Convert to Hankaku in Selection",
+		"command": "convert_to_han_kana_selection"
+	}
+]
