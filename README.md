@@ -3,6 +3,8 @@ ConvertJaZenHan
 
 _A Sublime Text plugin for converting the Japanese characters between singlebyte and doublebyte._
 
+__日本語での解説は[こちらのページ](http://orememo-v2.tumblr.com/post/95237450958/convet-zenhan)をご覧ください。__
+
 ## Intstallation
 
 1. Find "Package Control: Add Repository" in Command Pallete.
@@ -65,8 +67,8 @@ abcde
 ## Characters Supported
 
 - Katakana
-- Number(1, 2, 3, 4, 5, 6, 7, 8, 9, 0)
-- Punctuation marks(、, 。, ！, ？, ／, ：, ；, ＋, ー, 「, 」, （, ）, ＃, ・)
+- Number(1234567890)
+- Punctuation marks(、。！？／：；＋ー「」（）＃・)
 - Space(" ")
 
 ## License
